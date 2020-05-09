@@ -1,0 +1,14 @@
+
+.button-div {
+    display:flex;
+    justify-content:center;
+    width:100%;
+}
+
+.mainpage-title-div {
+    justify-content: center;
+}
+
+.title {
+    font-family: 'Jost', sans-serif;
+}
